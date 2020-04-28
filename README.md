@@ -9,6 +9,7 @@
 
 <h3>基金网</h3>
 <blockquote>
+   <p>http://fund.eastmoney.com/</p>
    <p>获取天天基金网上的净值与估值</p>
    <p>展示并与shell结合自动化存储到数据中</p>
 </blockquote>
