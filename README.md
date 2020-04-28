@@ -1,9 +1,10 @@
 <h1>Python 爬虫</h1>
 
 <blockquote>
-  <p>爬取天天基金网</p>
+  <p>https://www.feixiaohao.com/</p>
+  <p>爬取区块链[非小号]上面币种的流通市值</p>
   
-  <p>净值/估值</p>
+  <p>美元/人民币</p>
   
-  <p>展示并与crontab结合形成自动化存储到数据库</p>
+  <p>展示并与shell结合推送到zabbix上进行自动化监控</p>
 </blockquote>
